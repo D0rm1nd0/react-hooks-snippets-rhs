@@ -1,0 +1,11 @@
+{
+  "Arrow Function": {
+    "prefix": [
+      "af"
+    ],
+    "body": [
+      "() => {\n}"
+    ],
+    "description": "Simple arrow function"
+  }
+}

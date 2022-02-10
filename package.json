@@ -1,0 +1,21 @@
+{
+    "name": "react-hooks-snippets-rhs",
+    "displayName": "React Hooks Snippets RHS",
+    "description": "The most useful snippets for react hooks",
+    "version": "0.0.1",
+		"publisher": "D0rm1nd0",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
